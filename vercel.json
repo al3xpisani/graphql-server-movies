@@ -4,6 +4,7 @@
       "memory": 1024
     }
   },
+  "files": ["schema.graphql"],
   "rewrites": [
     {
       "source": "/(.*)",
